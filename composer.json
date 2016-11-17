@@ -1,5 +1,5 @@
 {
-    "name": "ns/simplemde-bundle",
+    "name": "nextstepwebs/simplemde-markdown-editor",
     "type": "symfony-bundle",
     "description": "This bundle provides the simplemde markdown editor",
     "minimum-stability": "stable",
@@ -15,8 +15,7 @@
         }
     ],
     "require": {
-        "php":                       ">=5.5.9",
-        "symfony/symfony":           "^2.8|^3.0"
+        "php":                       ">=5.5.9"
     },
     "autoload": {
         "psr-4": { "NS\\SimpleMDEBundle\\": "" }
