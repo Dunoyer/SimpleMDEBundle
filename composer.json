@@ -1,5 +1,5 @@
 {
-    "name": "nextstepwebs/simplemde-markdown-editor",
+    "name": "dunoyer/simplemde-markdown-editor",
     "type": "symfony-bundle",
     "description": "This bundle provides the simplemde markdown editor",
     "minimum-stability": "stable",
